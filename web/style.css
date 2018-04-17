@@ -1,0 +1,22 @@
+h5{
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    color: dimgray;
+    margin-top: 20px;
+    background-color: lightgray;
+
+}
+
+p{
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+hr{
+    width: 80%;
+}
